@@ -1,0 +1,12 @@
+build/
+CLAUDE.md
+GEMINI.md
+out/
+*.o
+*.obj
+*.exe
+.vs/
+.vscode/
+roms/
+test_data/
+*:Zone.Identifier
