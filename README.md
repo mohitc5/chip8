@@ -1,6 +1,6 @@
 # CHIP-8 Interpreter
 
-A CHIP-8 virtual machine written in C++17, rendered with SDL2. CHIP-8 is an interpreted bytecode language from the late 1970s designed for 8-bit microcomputers: 35 opcodes, a 64×32 monochrome display, a 16-key hex keypad, 4 KB of RAM. This emulator runs the canonical test suite and plays original games like Pong and Tetris. The purpose of this project was for me to explore emulation development, and to eventually develope more emulators for retro consoles like the NES and Gameboy.
+A CHIP-8 virtual machine written in C++, rendered with SDL2. CHIP-8 is an interpreted bytecode language from the late 1970s designed for 8-bit microcomputers: 35 opcodes, a 64×32 monochrome display, a 16-key hex keypad, 4 KB of RAM. This emulator runs the canonical test suite and plays original games like Pong and Tetris. The purpose of this project was for me to explore emulation development, and to eventually develope more emulators for retro consoles like the NES and Gameboy.
 
 <img width="600" height="338" alt="Adobe Express - tetrischip8 (1)" src="https://github.com/user-attachments/assets/516fcd4e-2b57-464c-a69a-6273eadb94db" />
 
